@@ -2,7 +2,7 @@
 
 ### Brief Info
 - Created in December 2022
-- Team members: 2
+- People: 2
 - Private Repositories: 1
 - Public Repositories: 2
 - Projects: 0
