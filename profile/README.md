@@ -1,7 +1,7 @@
-<h1 align=center>Hello World! Welcome To Our Programmers Class!</h1>
+<h1 align=center>Hello World! Welcome To Our Organization!</h1>
 
 ### Brief Info
-- Created in December 2022
+- Created in 17 December 2021
 - People: 2
 - Private Repositories: 1
 - Public Repositories: 2
